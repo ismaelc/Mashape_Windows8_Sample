@@ -26,11 +26,11 @@ namespace App5
     public sealed partial class MainPage : App5.Common.LayoutAwarePage
     {
         //Mashape - Get your Mashape header value at https://www.mashape.com/docs/consume/rest
-        const string MashapeHeader = "";
+        const string MashapeHeader = "1c8mm88vvldyf3svq3kdtzpqbuffl4";
 
         //Bitly - Get your own Bitly login and apikey at http://dev.bitly.com
-        const string BitlyLogin = "";
-        const string BitlyApiKey = "";
+        const string BitlyLogin = "ismaelc";
+        const string BitlyApiKey = "R_70085ff324b8f0d7b3ad65f241f73e30";
 
         public MainPage()
         {
